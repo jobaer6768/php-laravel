@@ -1,0 +1,2 @@
+What I am going to do 
+- I will be building a saas product for coaching, school or kindergarden management software. Where a coaching or school or kindergarden will take subscription from us and get our service to manage their institution.
